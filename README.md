@@ -31,7 +31,7 @@ I wanted something similar. <br/>
 ### <p style="font-size:30px">Design</p>
 </div>
 There are some key design ideas that come from how I specifically use my computer
-that guided this build. While I totally understand the appeal of a more traditionall
+that guided this build. While I totally understand the appeal of a more traditional
 ergonomic keyboard like the Kinesis for someone who writes code all day,
 as a data science and machine learning researcher, and a Student, I frequently switch between
 input tools during my workflow.
@@ -114,10 +114,7 @@ means you are free to use the files to order the parts to build your own free
 of charge, and modify it to your liking. You are however not permitted to sell
 kits, builds or other parts of this project.<br/>
 
-In the files folder you will find two .STEP files, one including both the case
-and the PCB and all of its components and switches. This one is what you should
-use if you want to make another case, as you can build around the board. The other
-one has just the Case and is what should be used to order the case from a service.
+In the files folder you will find the .STEP file for the case.
 
 The PCB files should be good to order as is, just make sure you order a 0.8mm
 thick board.
