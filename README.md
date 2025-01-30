@@ -109,11 +109,6 @@ to the left hand.
 ### <p style="font-size:30px">Avaiabilty</p>
 </div>
 
-This project is licensed under a CC Non-Commercial Share-Alike license. This
-means you are free to use the files to order the parts to build your own free
-of charge, and modify it to your liking. You are however not permitted to sell
-kits, builds or other parts of this project.<br/>
-
 In the files folder you will find the .STEP file for the case.
 
 The PCB files should be good to order as is, just make sure you order a 0.8mm
